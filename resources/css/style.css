@@ -6,6 +6,7 @@ body {
 
 .headcontents {
     background-color: rgb(205, 206, 194);
+    font-family: "Lucida New", sans-serif;;
     }
 
 .head {
@@ -18,6 +19,10 @@ body {
 .head-ls {
     display: flex;
     margin-left: 24px;
+}
+
+.heavy {
+    font-weight: bolder;
 }
 
 .head ul {
@@ -36,11 +41,65 @@ body {
 
 .head h1 {
     margin-left: 20px;
-    font-family: monospace system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: "Lucida New", sans-serif;
 }
+
+/* K E E P P R A C T I C I N G */
+
+.lsned {
+    background-color: #b5b3b3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lsned-image {
+    margin: 32px 24px;
+}
+
+.lsned img {
+    height: auto;
+    width: 900px;
+}
+
+.lsned-text {
+    font-family: "Lucida New", sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.lsnes-text-dex {
+    
+}
+
+.text-des {
+    width: 90%;
+
+}
+
+.lsned h2 {
+    color: rgb(96, 94, 94);
+    font-size: 32px;
+}
+
+.lsned h3 {
+    color: rgb(96, 94, 94);
+    font-size: 20px;
+}
+
+.lsned h4 {
+    font-size: 16px;
+    text-align: center;
+    background-color: rgb(96, 94, 94);
+    color: white;
+    width: 30%;
+    padding: 8px 50px;
+}
+
+/* S T A R T L E A R N I N G */
+
+/* T H E S I S E X H I B I T */
+
+/* F O O T E R */
 
 /* E L S E */
-
-.heavy {
-    font-weight: bolder;
-}
