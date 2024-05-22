@@ -19,4 +19,4 @@ Started and nearly finished styling the "idhtkp" division of the html and css di
 
 --- 5/22/24 11:45am ---
 
-Forgot to update yesterday, just still styling, finished the "idhtkp" and started the "sl-li" section. Going well.
+Forgot to update yesterday, just still styling, finished the "idhtkp" and started the "sl-li" section. Going well. 
