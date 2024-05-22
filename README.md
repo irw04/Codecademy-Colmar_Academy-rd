@@ -2,6 +2,9 @@
 
 Codecademy capstone project for their html/css course. 
 
+
+    UPDATE LOG
+    
 --- 5/16/24 17:09 pm ---
 
 added all media, text, images, and a video. no styling. 
@@ -12,4 +15,8 @@ Began styling the header.
 
 --- 5/18/24 11:36am ---
 
-Started and nearly finished styling the <!--- L E A R N S O M E T H I N G N E W ---> division on the website. Rest should be quick.
+Started and nearly finished styling the "idhtkp" division of the html and css division on the website. Rest should be quick.
+
+--- 5/22/24 11:45am ---
+
+Forgot to update yesterday, just still styling, finished the "idhtkp" and started the "sl-li" section. Going well.

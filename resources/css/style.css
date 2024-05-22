@@ -5,7 +5,7 @@ body {
 /* H E A D E R */
 
 .headcontents {
-    background-color: rgb(205, 206, 194);
+    background-color: white;
     font-family: "Lucida New", sans-serif;;
     }
 
@@ -69,12 +69,15 @@ body {
 }
 
 .lsnes-text-dex {
-    
+    display: flex;
+    justify-content: center;
+    transform: translateX(-12.5%);
 }
 
 .text-des {
-    width: 90%;
-
+    width: 90%;    width: 90%;
+    display: flex;
+    flex-direction: column;
 }
 
 .lsned h2 {
@@ -97,6 +100,103 @@ body {
 }
 
 /* S T A R T L E A R N I N G */
+
+.idhtkp {
+    background-color: white;
+    display: flex;
+}
+
+.idhtkg-ls {
+    margin: 32px 24px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.idhtkg-ls img {
+    width: 100%;
+    height: auto;
+}
+
+.idhtkg-ls-text {
+    width: 60%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.idhtkg-ls h3 {
+    font-family: "Lucida New", sans-serif;
+    font-size: 28px;
+}
+
+.idhtkg-ls h5 {
+    font-family: "Lucida New", sans-serif;
+    font-size: 16px;
+}
+
+.idhtkg-ls span {
+    font-family: "Lucida New", sans-serif;
+    font-size: 16px;
+}
+
+.idhtkp-rs {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+.idhtkp-image {
+    display: flex;
+    padding: 8px;
+    border: lightgray solid 1px;
+    scale: 80%;
+}
+
+.idhtkp-rs img {
+    scale: 90%;
+}
+
+.idhtkg-img-text {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 16px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#readmore {
+    color: cornflowerblue;
+}
+
+/* S T A R T L E A R N I N G */
+
+.sl-li {
+    background-color: #b5b3b3;
+}
+
+.sl-li ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sl-li li {
+    width: fit-content;
+    background-color: white;
+    text-align: center;
+    padding-bottom: 16px;
+}
+
+.sl-li li h3 {
+    font-size: 18px;
+}
+
+.sl-li  li h4 {
+    font-size: 13px;
+}
 
 /* T H E S I S E X H I B I T */
 
