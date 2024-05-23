@@ -47,7 +47,7 @@ body {
 /* K E E P P R A C T I C I N G */
 
 .lsned {
-    background-color: #b5b3b3;
+    background-color: #e4e4e4;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -104,6 +104,7 @@ body {
 .idhtkp {
     background-color: white;
     display: flex;
+    padding-top: 16px;
 }
 
 .idhtkg-ls {
@@ -149,9 +150,9 @@ body {
 
 .idhtkp-image {
     display: flex;
-    padding: 8px;
     border: lightgray solid 1px;
     scale: 80%;
+    height: 236px;
 }
 
 .idhtkp-rs img {
@@ -174,20 +175,36 @@ body {
 /* S T A R T L E A R N I N G */
 
 .sl-li {
-    background-color: #b5b3b3;
+    background-color: #e4e4e4;
+    font-family: "Lucida New", sans-serif;
+    color: rgb(82, 74, 74);
+}
+.sl-li-header {
+    text-align: center;
+    transform: translateY(32px);
+    font-size: 32px;
+    font-weight: bold;
 }
 
 .sl-li ul {
     list-style-type: none;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 0px;
 }
 
 .sl-li li {
     width: fit-content;
     background-color: white;
-    text-align: center;
-    padding-bottom: 16px; 
+    text-align: left;
+    padding-bottom: 16px;
+    scale: 90%; 
+}
+
+#compart {
+    height: 398px;
 }
 
 .sl-li li h3 {
@@ -198,7 +215,46 @@ body {
     font-size: 13px;
 }
 
+.coursetext {
+    margin-left: 16px;
+}
 /* T H E S I S E X H I B I T */
+
+.te {
+
+}
+
+.te-header {
+
+}
+
+.te-header h2 {
+
+}
+
+.te-ls {
+
+}
+
+.te-rs {
+
+}
+
+.te-rs ul {
+
+}
+
+.te-rs li {
+
+}
+
+.te h3 {
+
+}
+
+.te h5 {
+
+}
 
 /* F O O T E R */
 
